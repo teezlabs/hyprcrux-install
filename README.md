@@ -19,7 +19,7 @@
 > However, it does set Nvidia modules to the kernel.<br>
 
 
-    git clone https://github.com/xsghetti/hyprcrux-install
+    git clone https://github.com/teezlabs/hyprcrux-install
 
 <br>
 
